@@ -1,0 +1,231 @@
+.zabudnut-meno-a {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.zabudnut-meno-a .div {
+  background-color: #ffffff;
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+
+.zabudnut-meno-a .overlap {
+  position: absolute;
+  width: 563px;
+  height: 195px;
+  top: 224px;
+  left: 35%;
+}
+
+.zabudnut-meno-a .text-wrapper {
+  position: absolute;
+  width: 563px;
+  height: 98px;
+  top: 0;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 64px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.zabudnut-meno-a .p {
+  position: absolute;
+  width: 418px;
+  height: 98px;
+  top: 97px;
+  left: 73px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.zabudnut-meno-a .overlap-group {
+  position: absolute;
+  width: 282px;
+  height: 31px;
+  top: 444px;
+  left: 42%;
+}
+
+.zabudnut-meno-a .search-bar {
+  position: absolute;
+  width: 274px;
+  height: 30px;
+  top: 1px;
+  left: 8px;
+  border-radius: 8px;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.zabudnut-meno-a .text-wrapper-2 {
+  position: absolute;
+  width: 101px;
+  height: 30px;
+  top: 0;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #00000033;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.zabudnut-meno-a .pokraova {
+  position: absolute;
+  width: 200px;
+  height: 40px;
+  top: 512px;
+  left: 45%;
+  background-color: #d9d9d9;
+  border-radius: 8px;
+  border: 1px solid;
+  border-color: #0000004c;
+}
+
+.zabudnut-meno-a .pokra-ova {
+  position: absolute;
+  width: 132px;
+  top: 6px;
+  left: 33px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.zabudnut-meno-a .component {
+  position: absolute;
+  width: 130px;
+  height: 30px;
+  top: 135px;
+  background-color: #d9d9d9;
+  border-radius: 10px;
+  left: 34px;
+}
+
+.zabudnut-meno-a .overlap-group-2 {
+  position: relative;
+  width: 101px;
+  height: 30px;
+  top: -1px;
+  left: 14px;
+}
+
+.zabudnut-meno-a .text-wrapper-3 {
+  position: absolute;
+  width: 101px;
+  height: 30px;
+  top: 0;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.zabudnut-meno-a .arrow-right {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  top: 6px;
+  left: 0;
+}
+
+.zabudnut-meno-a .component-wrapper {
+  position: absolute;
+  width: 100%;
+  height: 100px;
+  top: 0;
+  left: 0;
+  background-color: #221f1f;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.zabudnut-meno-a .component-2 {
+  position: relative;
+  width: 362px;
+  height: 66px;
+  top: 17px;
+  left: 34px;
+}
+
+.zabudnut-meno-a .raspberryfield-sk {
+  position: absolute;
+  width: 284px;
+  height: 39px;
+  top: 8px;
+  left: 78px;
+}
+
+.zabudnut-meno-a .raspberryfield-sk-2 {
+  position: absolute;
+  width: 284px;
+  top: -1px;
+  left: 0;
+  text-shadow: 0px 4px 4px #00000040;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.zabudnut-meno-a .element-uni-kosice {
+  position: absolute;
+  width: 66px;
+  height: 66px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.zabudnut-meno-a .div-wrapper {
+  position: absolute;
+  width: 100%;
+  height: 50px;
+  top: 1200px;
+  left: 0;
+  background-color: #221f1f;
+  box-shadow: 0px 4px 4px #00000040;
+}
+
+.zabudnut-meno-a .text-wrapper-4 {
+  position: absolute;
+  width: 455px;
+  height: 15px;
+  top: 16px;
+  left: 15px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.unclickable-link {
+  text-decoration: none; 
+  color: inherit;
+}
